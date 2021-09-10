@@ -1,5 +1,5 @@
 {
-  "name": "typescript",
+  "name": "webeleon-node-typescript-starter",
   "version": "0.0.0",
   "description": "A generic starter for node js starter projects",
   "main": "dist/index.js",
@@ -13,6 +13,25 @@
     "prepare": "husky install",
     "release": "standard-version"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Webeleon/node-typescript"
+  },
+  "bugs": {
+    "url": "https://github.com/Webeleon/node-typescript/issues"
+  },
+  "contributors": [
+    {
+      "name": "Julien Prugne",
+      "email": "julien@webeleon.dev"
+    }
+  ],
+  "keywords": [
+    "project starter",
+    "webeleon",
+    "node js",
+    "typescript"
+  ],
   "author": "Webeleon",
   "license": "MIT",
   "devDependencies": {
