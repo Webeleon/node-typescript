@@ -9,7 +9,7 @@
     "format": "prettier --write '**/*.ts'",
     "test": "jest",
     "test:watch": "jest --watch",
-    "test:cov": "jest --coverage",
+    "test:coverage": "jest --coverage",
     "prepare": "husky install",
     "release": "standard-version"
   },
